@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate frontend(especially CSS) developer</h3>
 
-- 🌱 I’m currently learning **JS,React,**
+- 🌱 I’m currently learning **JS and React,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
