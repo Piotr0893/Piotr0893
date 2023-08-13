@@ -1,4 +1,4 @@
-
+<img alt="Hello I'm Karol" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=false&vCenter=true&width=435&lines=Hello+I'm+Peter">
 <h1 align="center">Hi 👋, I'm Peter</h1>
 
 
