@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **JS and React,**
-
+<hr>
 
 <p align="left">
 </p>
